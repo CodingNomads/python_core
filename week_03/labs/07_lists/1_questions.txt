@@ -10,7 +10,7 @@
 
 6 - What happens with a index value is negative? How does this change how an element is accessed?
 
-7 - How can you use the in operator to determine in a value exists in a list?
+7 - How can you use the in operator to determine if a value exists in a list?
 
 8 - How can you use the + and * operators on lists?
 
