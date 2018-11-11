@@ -4,5 +4,5 @@ only the items that are divisible by 1111.
 
 '''
 
-# remember: range() also creates a generator object (try printing it!)
+# note: range() also works with a generator object internally
 nums = range(1, 1000000)
