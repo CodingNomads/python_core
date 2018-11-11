@@ -1,18 +1,13 @@
 '''
-Read the documentation of the string methods at:
+We've learned about strings earlier. Looking at string methods from the
+perspective of "everything is an object in python" explains the syntax
+that we encountered there.
+
+Now take a second look at the documentation of the string methods at:
 http://docs.python.org/3/library/stdtypes.html#string-methods.
-You might want to experiment with some of them to make sure you
-understand how they work. strip and replace are particularly useful.
 
-The documentation uses a syntax that might be confusing.
-For example, in find(sub[, start[, end]]), the brackets indicate
-optional arguments. So sub is required, but start is optional, and if
-you include start, then end is optional.
-
-Demonstrate below:
-- strip
-- replace
-- find
+Demonstrate 3 interesting string methods of your choice and explain why
+they are invoked like this: str.method()
 
 Source: Exercise in chapter "Strings" in Think Python 2e:
 http://greenteapress.com/thinkpython2/html/thinkpython2009.html

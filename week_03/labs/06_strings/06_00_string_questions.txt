@@ -1,0 +1,27 @@
+1 - What is a string?
+
+2 - What is an index?
+
+3 - What letter will the following code print? Why?
+
+    word = 'hello'
+    index_two = word[2]
+    print(index_two)
+
+4 - What is the len() functions used for?
+
+5 - How can you get the last character of a word using the len() function?
+
+6 - What is string slicing and how does it work?
+
+7 - How to do slice the string "python" to produce the string "thon"?
+
+8 - How can you use slicing to store the first and last character of a word in separate variables?
+
+09 - Can you change one or more character of a string? Why or why not?
+
+10 - What is invocation?
+
+11 - How do you invoke the find() method on a string with the value 'hello' to find the index of the letter e?
+
+12 - How is the 'in' operator used?
