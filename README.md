@@ -1,7 +1,7 @@
 # Python for Back-End Web Development
 
 Here you can find the labs and project instructions, as well as solutions,
-for the CodingNomads 12 week Python Back-End WebDev course.
+for the CodingNomads online/onsite Python Back-End WebDev course.
 
 Please refer to the [Course Overview](https://codingnomads.atlassian.net/wiki/spaces/PYC/pages/426934606/Course+Overview) for the glue that ties all this together :)
 
