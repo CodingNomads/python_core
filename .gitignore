@@ -4,3 +4,4 @@ venv/
 env
 # admin notes
 admin.md
+.idea/
