@@ -1,8 +1,8 @@
 '''
 Write the necessary code to display the follow message to the console
+Challenge: write code to duplicate the "co-" part
+instead of writing it 3 times.
 
-Hello World!!
-I'm a programmer now.
-Yeehaw!
+Time for co-co-co-ding.
 
 '''
