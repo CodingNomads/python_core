@@ -1,25 +1,25 @@
 # nope
-_list = [1, 2, 3, 4, 5, ]
-for i in range(len(_list)):
-    _list[i] = _list[len(_list) - 1 - i]
+list_ = [1, 2, 3, 4, 5, ]
+for i in range(len(list_)):
+    list_[i] = list_[len(list_) - 1 - i]
 
-print(_list)
+print(list_)
 
 # same nope
-_list = [1, 2, 3, 4, 5, ]
+list_ = [1, 2, 3, 4, 5, ]
 store = 0
-for i in range(len(_list) // 2):
-    store = _list[i]
-    _list[i] = _list[len(_list) - 1 - i]
+for i in range(len(list_) // 2):
+    store = list_[i]
+    list_[i] = list_[len(list_) - 1 - i]
 
-print(_list)
+print(list_)
 
 # yep works!
-_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, ]
+list_ = [1, 2, 3, 4, 5, 6, 7, 8, 9, ]
 store = 0
-for i in range(len(_list) // 2):
-    store = _list[i]
-    _list[i] = _list[len(_list) - 1 - i]
-    _list[len(_list) - 1 - i] = store
+for i in range(len(list_) // 2):
+    store = list_[i]
+    list_[i] = list_[len(list_) - 1 - i]
+    list_[len(list_) - 1 - i] = store
 
-print(_list)
+print(list_)
